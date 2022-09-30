@@ -1,3 +1,4 @@
-Calculator HTML
-##_This HTML Calculator Was Created By AMAN KUMAR SINGH.
-Basic HTML Framework and CSS Was Used to Make This Project.
+# **Calculator HTML**
+## _Made By AMAN KUMAR SINGH_
+
+I Made This Basic Calculator Using Basic HTML Framework and CSS.
